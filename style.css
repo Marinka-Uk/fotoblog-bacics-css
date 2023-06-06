@@ -1,6 +1,7 @@
 header{
     padding-top: 71px  ;
     padding-bottom: 92px;
+
 }
 
 body{
@@ -62,8 +63,6 @@ img{
     margin-right: auto;
 }
 .hero-button{
-    justify-content: center;
-  align-items: center;
   border: none;
   border-radius: 4px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
@@ -78,4 +77,7 @@ img{
     
     
     color: var(--background-color);
+}
+.main-section{
+    text-align: center;
 }
